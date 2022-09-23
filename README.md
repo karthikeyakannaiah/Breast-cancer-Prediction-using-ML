@@ -35,3 +35,10 @@ pickle --> to save models
 To deactivate environment
 
 ### `conda deactivate`
+
+## DATASET
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29  
+
+## INFO
+Support Vector Machine:
+https://scikit-learn.org/stable/modules/svm.html#classification
