@@ -15,7 +15,7 @@ python=3.10 || >3.7
   
 Virtual ENV Install anaconda create virtual env  
 
-### `conda create ENV_NAME`  
+### `conda create --name ENV_NAME`  
   
 In your 'cd' and goto file directory of where you want to code
 
